@@ -1,0 +1,13 @@
+D:\DotNet\ThinkBridge\Repo\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+D:\DotNet\ThinkBridge\Repo\Data\bin\Debug\netcoreapp3.1\Data.dll
+D:\DotNet\ThinkBridge\Repo\Data\bin\Debug\netcoreapp3.1\Data.pdb
+D:\DotNet\ThinkBridge\Repo\Data\bin\Debug\netcoreapp3.1\Common.dll
+D:\DotNet\ThinkBridge\Repo\Data\bin\Debug\netcoreapp3.1\Common.pdb
+D:\DotNet\ThinkBridge\Repo\Data\obj\Debug\netcoreapp3.1\Data.csproj.AssemblyReference.cache
+D:\DotNet\ThinkBridge\Repo\Data\obj\Debug\netcoreapp3.1\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ThinkBridge\Repo\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+D:\DotNet\ThinkBridge\Repo\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+D:\DotNet\ThinkBridge\Repo\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+D:\DotNet\ThinkBridge\Repo\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+D:\DotNet\ThinkBridge\Repo\Data\obj\Debug\netcoreapp3.1\Data.dll
+D:\DotNet\ThinkBridge\Repo\Data\obj\Debug\netcoreapp3.1\Data.pdb

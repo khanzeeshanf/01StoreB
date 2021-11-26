@@ -1,0 +1,11 @@
+D:\DotNet\ThinkBridge\Repo\Common\bin\Debug\net6.0\Common.deps.json
+D:\DotNet\ThinkBridge\Repo\Common\bin\Debug\net6.0\Common.dll
+D:\DotNet\ThinkBridge\Repo\Common\bin\Debug\net6.0\ref\Common.dll
+D:\DotNet\ThinkBridge\Repo\Common\bin\Debug\net6.0\Common.pdb
+D:\DotNet\ThinkBridge\Repo\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ThinkBridge\Repo\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\DotNet\ThinkBridge\Repo\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\DotNet\ThinkBridge\Repo\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\DotNet\ThinkBridge\Repo\Common\obj\Debug\net6.0\Common.dll
+D:\DotNet\ThinkBridge\Repo\Common\obj\Debug\net6.0\ref\Common.dll
+D:\DotNet\ThinkBridge\Repo\Common\obj\Debug\net6.0\Common.pdb
